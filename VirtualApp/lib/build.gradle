@@ -51,4 +51,5 @@ dependencies {
 
 repositories {
     maven { url 'https://jitpack.io' }
+    maven { url "https://mirrors.tencent.com/nexus/repository/maven-public/" }
 }
